@@ -62,4 +62,33 @@
         font-size: 40px;
     }
     
+    /*10) Le informazioni della ricetta tornano a disporsi una sotto l'altra */
+    main{
+        padding: 25px;
+    }
+    .container{
+        min-width: 80%;
+    }
+    .recipe{
+        padding: 0px;
+    }
+    .recipe-card{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+    }
+    .recipe-video{
+        width: 70%;
+    }
+    .recipe-info{
+        width: 30%;
+    }
+    .quick-notes ul{
+        flex-direction: column;
+        flex-wrap: nowrap;
+    }
+    li{
+        width: 100%;
+    }
+    
 }
