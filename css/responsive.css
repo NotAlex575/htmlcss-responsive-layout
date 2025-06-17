@@ -92,5 +92,8 @@
         width: 100%;
     }
     
-
+    /*12) Compaiono i nomi delle piattaforme social */
+    .social-networks .btn .label{
+        display: inline;
+    }
 }
