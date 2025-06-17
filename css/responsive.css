@@ -44,6 +44,14 @@
         display: inline;
     }
 
+    /*8) l'immagine nella descrizione della ricetta viene circondata dal testo */
+    .presentation img{
+        float: left;
+        margin-right: 20px;
+    }
+
+
+
 }
 
 
