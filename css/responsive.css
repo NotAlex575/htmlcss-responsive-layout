@@ -35,6 +35,13 @@
     /*6) I bottoni social si allargano */
     .btn{
         width: 20%;
+        margin-bottom: 50px;
+    }
+    
+
+    /*7) compare il banner pubblicitario */
+    .ads{
+        display: inline;
     }
 
 }
