@@ -10,11 +10,16 @@
     }
     /*2) Il padding del contenuto principale della pagina aumenta */
     main{
-        padding-top: 40px;
+        padding: 45px;
     }
     /*3) Compare il testo "(Dolce Tradizionale)" */
     .recipe-origin{
         display: inline;
+    }
+
+    /*4) La grandezza del titolo diventa più grande */
+    .recipe-name{
+        font-size: xx-large;
     }
 }
 
