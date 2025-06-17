@@ -63,6 +63,7 @@
     }
     
     /*10) Le informazioni della ricetta tornano a disporsi una sotto l'altra */
+    /*11) Il video e le altre informazioni della ricetta si dispongono uno accanto all'altro */
     main{
         padding: 25px;
     }
@@ -91,4 +92,5 @@
         width: 100%;
     }
     
+
 }
