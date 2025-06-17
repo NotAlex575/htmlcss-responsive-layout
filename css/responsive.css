@@ -6,6 +6,10 @@
         display: flex;
         justify-content: flex-start;
     }
+    
+    main{
+        padding-top: 40px;
+    }
 }
 
 
