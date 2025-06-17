@@ -33,7 +33,7 @@
     }
 
     /*6) I bottoni social si allargano */
-    .btn{
+    .social-networks .btn{
         width: 20%;
         margin-bottom: 50px;
     }
