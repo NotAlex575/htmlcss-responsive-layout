@@ -28,11 +28,14 @@
         flex-direction: row;
         flex-wrap: wrap;
     }
-
     li{
         width: 30%;
     }
-    
+
+    /*6) I bottoni social si allargano */
+    .btn{
+        width: 20%;
+    }
 
 }
 
